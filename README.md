@@ -1,6 +1,6 @@
 # DDS-Cuidandonos
 Tarea de a pares basada en el enunciado de final "Cuidandonos"
-# Integrantes
+## Integrantes
 -Agustin Gabriel Podhainy Vignola
-
 -Thiago Martin Gonzalez 
+## Justificaciones de Diseño
